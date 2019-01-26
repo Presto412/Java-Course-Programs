@@ -1,0 +1,26 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "compile and execute java prgm",
+      "type": "shell",
+      "command": "javac ${fileDirname}/${fileBasenameNoExtension}.java && v=${relativeFile} && java ${v%?????}",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "cleanup",
+      "type": "shell",
+      "command": "find . -name \"*.class\" -exec rm -f {} \\;",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
