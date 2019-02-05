@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberConversionTest",
+            "request": "launch",
+            "mainClass": "lab.NumberConversionTest",
+            "projectName": "Java_aabe779"
+        }
+    ]
+}
