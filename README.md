@@ -1,5 +1,11 @@
 # Java Course Files
 
+## How to run
+
+- Use Visual Studio Code
+- `Ctrl+Shift+b`
+- run the task
+
 ## Lab Programs
 
 ### Experiment 1
