@@ -21,14 +21,16 @@
 - [Test Class](./lab/NumberConversionTest)
 - [Decimal to Hexadecimal](./lab/NumberConversion/Decimal2Hexa.java)
 - [Decimal to Binary](./lab/NumberConversion/Decimal2Binary.java)
-  **Question 2:**: Program to read a chemical equation and find out the
-  count of the reactants and the products. Also display the count of the
-  number of molecules of each reactant and product. <br>
-  Eg., For the equation, <br> `2NaOH + H2SO4 -> Na2SO4+ 2H2O`, <br> the O/P
-  should be as follows. <br>
-  Reactants are 2 moles of `NaOH`, 1 mole of `H2SO4`. <br>
-  Products are 1 mole of `Na2SO4` and 2 moles of `H2O`.
-  - [Solution](./lab/ChemicalEquation.java)
+
+**Question 2:**: Program to read a chemical equation and find out the
+count of the reactants and the products. Also display the count of the
+number of molecules of each reactant and product. <br>
+Eg., For the equation, <br> `2NaOH + H2SO4 -> Na2SO4+ 2H2O`, <br> the O/P
+should be as follows. <br>
+Reactants are 2 moles of `NaOH`, 1 mole of `H2SO4`. <br>
+Products are 1 mole of `Na2SO4` and 2 moles of `H2O`.
+
+- [Solution](./lab/ChemicalEquation.java)
 
 ---
 
@@ -57,5 +59,24 @@ functions in order to achieve the following tasks :
 - [Account Class](./lab/Account/Account.java)
 - [Current Account Class](./lab/Account/Cur_acct.java)
 - [Savings Account Class](./lab/Account/Sav_acct.java)
+
+**Question 2**: <br>
+Within the package named ‘primespackage’, define a class Primeswhich includes a method checkForPrime() for checking if the given
+number is prime or not. Define another class named TwinPrimes outside of
+this package which will display all the pairs of prime numbers whose
+difference is 2. (Eg, within the range 1 to 10, all possible twin prime
+numbers are (3,5), (5,7)). The TwinPrimes class should make use of the
+checkForPrime() method in the Primes class. <br>
+
+**Solution**
+
+- [Primes.java](./lab/primepackages/Primes.java)
+- [TwinPrimes.java](./lab/TwinPrimes.java)
+
+**Question 3**: Q2 in [CAT1 Question Paper](./CAT-1-QP.pdf)<br>
+[**Solution**](./lab/Userpassword.java)
+
+**Question 4**: Q3 in [CAT1 Question Paper](./CAT-1-QP.pdf)<br>
+[**Solution**](./lab/StudentTest.java)
 
 ---
