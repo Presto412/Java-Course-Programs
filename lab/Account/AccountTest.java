@@ -28,14 +28,14 @@ public class AccountTest {
         while (true) {
 
             scan = new Scanner(System.in);
-            System.out.println("Open account [1]");
-            System.out.println("Deposite [2]");
-            System.out.println("Withdraw [3]");
-            System.out.println("Interest [4]");
-            System.out.println("Issue cheque [5]");
-            System.out.println("Check for minimum balance [6]");
-            System.out.println("Display account [7]");
-            System.out.println("Exit [8]");
+            System.out.print("Open account [1],");
+            System.out.print("Deposite [2],");
+            System.out.print("Withdraw [3],");
+            System.out.print("Interest [4],");
+            System.out.print("Issue cheque [5],");
+            System.out.print("Check for minimum balance [6],");
+            System.out.print("Display account [7],");
+            System.out.print("Exit [8]");
             System.out.println(">> ");
 
             int option = scan.nextInt();

@@ -76,13 +76,19 @@ checkForPrime() method in the Primes class. <br>
 
 **Solution**
 
-- [Primes.java](./lab/primepackages/Primes.java)
 - [TwinPrimes.java](./lab/TwinPrimes.java)
+- [Primes.java](./lab/primepackages/Primes.java)
 
 **Question 3**: Q2 in [CAT1 Question Paper](./CAT-1-QP.pdf)<br>
-[**Solution**](./lab/Userpassword.java)
+
+- [**Solution**](./lab/Userpassword.java)
 
 **Question 4**: Q3 in [CAT1 Question Paper](./CAT-1-QP.pdf)<br>
-[**Solution**](./lab/StudentTest.java)
+
+- [**Solution**](./lab/StudentTest.java)
+
+**Question 5**: Q4 in [CAT1 Question Paper](./CAT-1-QP.pdf)<br>
+
+- [**Solution**](./lab/UniversityTest.java)
 
 ---
