@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - JDBCTest",
+            "request": "launch",
+            "mainClass": "lab.JDBCTest",
+            "projectName": "Java_aabe779"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NumberConversionTest",
             "request": "launch",
             "mainClass": "lab.NumberConversionTest",
